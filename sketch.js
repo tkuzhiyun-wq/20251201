@@ -28,7 +28,7 @@ function preload() {
   walkSheet = loadImage('1/walk/walk-all.png');
   jumpSheet = loadImage('1/jump/jump-all.png');
   pushSheet = loadImage('1/push/push-all.png');
-  projectileSheet = loadImage('1/光/光-all.png');
+  projectileSheet = loadImage('1/projectile/光-all.png');
 }
 
 function setup() {
